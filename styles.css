@@ -127,14 +127,14 @@ input[type="checkbox"]:checked {
 
 #p1 {
   position:absolute;
-  margin-left: 25%;
+  margin-left: 20%;
   top: 175px;
   left:0;
 }
 
 #p2 {
   position: absolute;
-  margin-right: 25%;
+  margin-right: 20%;
   top: 175px;
   right: 0;
 }
